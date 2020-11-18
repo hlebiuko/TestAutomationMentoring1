@@ -44,3 +44,5 @@ They can only do harm
 
 All I ever wanted
 All I ever needed
+
+check settings for new repo
